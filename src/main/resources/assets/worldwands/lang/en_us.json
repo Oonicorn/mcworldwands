@@ -1,0 +1,13 @@
+{
+  "itemGroup.wands": "Wands",
+  "item.worldwands.wand": "Wand",
+  "item.worldwands.nav_wand": "Nav-Wand",
+  "item.worldwands.block_data_cycler": "Block-data Cycler",
+  "item.worldwands.far_wand": "Far-Wand",
+  "item.worldwands.flood_fill": "Flood-Filler",
+  "item.worldwands.info_wand": "Info Wand",
+  "item.worldwands.long_range_builder": "Long-Range Builder",
+  "item.worldwands.replacer": "Block Replacer",
+  "item.worldwands.stacker": "Block Stacker",
+  "item.worldwands.tree_wand": "Tree Wand"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "worldwands:items/long_range_builder"
+  }
+}
