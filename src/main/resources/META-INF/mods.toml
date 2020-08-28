@@ -12,10 +12,10 @@ loaderVersion="[32,)" #mandatory This is typically bumped every Minecraft versio
 
 # The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
 # Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
-license="All rights reserved"
+license="GNU GPLv3"
 
 # A URL to refer people to when problems occur with this mod
-issueTrackerURL="http://my.issue.tracker/" #optional
+issueTrackerURL="https://github.com/Oonicorn/mcworldwands/issues" #optional
 
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
@@ -33,10 +33,10 @@ displayName="WorldWands" #mandatory
 updateJSONURL="http://myurl.me/" #optional
 
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://example.com/" #optional
+displayURL="https://github.com/Oonicorn/mcworldwands" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="examplemod.png" #optional
+logoFile="logo.png" #optional
 
 # A text field displayed in the mod UI
 credits="Thanks to TechnoVision on Youtube for the mod tutorial" #optional
@@ -46,7 +46,7 @@ authors="Ooni" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Extra items for use in World Edit
+Extra items for use with World Edit
 '''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
